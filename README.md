@@ -1,7 +1,4 @@
-Running locally
-===============
+# rabbitmq-heroku-example
 
-    $ bundle install
-    $ bundle exec thin start -R config.ru
-
+Code moved to [rabbitmq/rabbitmq-heroku-example](https://github.com/rabbitmq/rabbitmq-heroku-example).
 
